@@ -16,5 +16,6 @@ Primero, se va a la ruta donde se tenga el código del proyecto con `cd "C:\Desk
 A continuación, se inicializa Git usando `git init`
 Ahora, se añadirán los archivos con el comando `git add .`
 Seguidamente, se crea el primer comit usando `git commit -m "Comentario del commit"`
+Si se quiere configurar la rama principal, se escribirá `git branch -M main`
 El siguiente paso es conectar la carpeta con el repositorio de GitHub, con `git remote add origin https://github.com/andreace29/TFM-Data-Science.git`
 Finalmente, para subir los archivos empleamos `git push -u origin main`
