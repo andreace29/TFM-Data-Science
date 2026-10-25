@@ -7,6 +7,9 @@ Los integrantes del equipo son:
 - Iñaki Mira Payá, **inakymp-boop**
 - Saray Suárez Pérez, **Saraysp**
 
-## Repositorio 
-El repositorio de GitHub tiene el nombre de TFM-Data-Science y su enlace es https://github.com/andreace29/TFM-Data-Science
+## Estado del proyecto
+Exploración de ideas
+
+## Entregas
+[00 - Exploración de ideas](docs/entregas/00_ideas.md)
 
