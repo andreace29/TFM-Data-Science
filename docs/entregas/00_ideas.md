@@ -8,6 +8,11 @@ El objetivo no es desarrollar únicamente un modelo predictivo, sino crear un pr
 
 La plataforma centralizará información financiera, calculará indicadores relevantes y utilizará modelos estadísticos y de aprendizaje automático para estudiar las relaciones entre las características financieras y su comportamiento bursátil posterior.
 
+Los usuarios objetivos son inversores particulares con conocimientos financieros básicos o intermedios, interesados en analizar empresas cotizadas antes de tomar decisiones de inversión.
+
+Actualmente, estos inversores encuentran varios problemas:
+
+1. * Información fragmentada:* necesitan consultar muchas fuentes para encontrar información relevante. 
 
 
 
