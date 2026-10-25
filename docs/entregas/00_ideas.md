@@ -2,7 +2,7 @@
 
 ## 1. Equity Intelligence - Plataforma inteligente de análisis financiero y evaluación de oportunidades de inversión mediante Machine Learning
 
-# 1.1. Idea
+### 1.1. Idea
 
 La idea consiste en el desarrollo de una plataforma interactiva de análisis financiero que permita a los usuarios evaluar empresas cotizadas, comprender su situación económica y analizar su potencial de inversión mediante la combinación de técnicas de análisis fundamental, estadística y Machine Learning.
 
