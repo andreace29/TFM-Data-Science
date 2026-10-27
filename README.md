@@ -4,7 +4,7 @@
 Los integrantes del equipo son:
 - Andrea Colorado Esteban, **andreace29**
 - Inés Macau Fernandes Rosa, **inesrosa865746352**
-- Iñaky Mira Payá, **inakymp-boop**
+- Iñaky Mira Payá, **inakymirapaya**
 - Saray Suárez Pérez, **Saraysp**
 
 ## Estado del proyecto
